@@ -50,7 +50,7 @@ h2::before {
 }
 
 .contents :nth-child(3)::first-letter{
-  font: bold;
+  font-weight: bold;
   color: rgb(97,206, 249);
 }
 
